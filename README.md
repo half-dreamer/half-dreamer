@@ -3,6 +3,7 @@
 - 🌱 I’m a sophomore in Zhejiang University
 - 😄 I'm a fan of animated films, expecially Hayao Miyazaki and Makoto Shinkai
 - ⚡ I love math and literature, which are the most exquisite things in the world
+- 🎉 An enthusiast of online CS courses
 
 <!--
 **half-dreamer/half-dreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
