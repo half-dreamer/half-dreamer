@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m a sophomore in Zhejiang University
-- 😄 I'm a fan of animated films, expecially Hayao Miyazaki and Makoto Shinkai
+- 😄 I'm a fan of animated films, expecially made by Hayao Miyazaki and Makoto Shinkai
 - ⚡ I love math and literature, which are the most exquisite things in the world
 - 🎉 An enthusiast of online CS courses
 
