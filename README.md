@@ -4,6 +4,7 @@
 - 😄 I'm a fan of animated films, expecially made by Hayao Miyazaki and Makoto Shinkai
 - ⚡ I love math and literature, which are the most exquisite things in the world
 - 🎉 An enthusiast of online CS courses
+- 🤔 I'm looking for a daily internship in Hangzhou, please send me an email if it is suitable.
 
 <!--
 **half-dreamer/half-dreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
