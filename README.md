@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m a senior student in Zhejiang University
 - 😄 I'm a fan of animated films, expecially made by Hayao Miyazaki and Makoto Shinkai
 - 🎉 An enthusiast of online CS courses
 
